@@ -42,6 +42,25 @@ A secure client-server application for file management with SSL/TLS encryption, 
   - Error handling
   - Connection management
 
+## Screenshots
+<p align="center">
+  <img src="assets/login.png" alt="login page" width="800">
+  <br>
+  <em>Login Page</em>
+</p>
+
+<p align="center">
+  <img src="assets/client.png" alt="client window" width="800">
+  <br>
+  <em>Client Window</em>
+</p>
+
+<p align="center">
+  <img src="assets/file_preview.png" alt="file preview" width="800">
+  <br>
+  <em>File Preview</em>
+</p>
+
 ## Prerequisites
 
 ```bash
